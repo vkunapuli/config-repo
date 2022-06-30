@@ -1,0 +1,8 @@
+feature1=true
+feature2=false
+feature3.vendor1=true
+feature3.vendor2=false
+feature4.vendor1.group1=true
+feature4.vendor2.group2=false
+feature4.vendor2.group1=false
+feature4.vendor1.group2=true
